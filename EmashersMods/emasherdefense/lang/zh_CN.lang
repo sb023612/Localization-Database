@@ -1,0 +1,16 @@
+itemGroup.tabDefense=工程师工具箱|防御
+
+tile.deflector.name=防护罩
+tile.deflectorGenerator.name=防护罩产生器
+tile.emeryTile.name=金刚砂瓷砖
+tile.sandbag.name=沙袋
+
+tile.chainFence.chainFence.name=铁丝网围栏
+tile.chainFence.chainPost.name=铁丝网围栏栏杆
+tile.chainFence.barbWireFence.name=倒刺铁丝围栏
+tile.chainFence.barbPostWood.name=倒刺铁丝围栏木制栏杆
+tile.chainFence.barbPost.name=倒刺铁丝围栏栏杆
+tile.chainFence.razorWireFence.name=刀片刺网围栏
+
+item.chainSheet.name=锁链板
+item.fenceWire.name=围栏铁丝
