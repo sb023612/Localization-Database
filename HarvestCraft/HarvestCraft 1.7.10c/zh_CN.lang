@@ -1,6 +1,6 @@
-itemGroup.tabHarvestCraft=农场工艺
-itemGroup.tabHarvestCraft2=农场作物
-itemGroup.tabHarvestCraft3=农场食物
+itemGroup.tabHarvestCraft=农场工艺|杂项
+itemGroup.tabHarvestCraft2=农场工艺|作物
+itemGroup.tabHarvestCraft3=农场工艺|食物
 
 # Tooltips
 tooltip.harvestcraft.item.queenbeeItem=蜂房:蜂巢,蜂巢蜡,幼虫\n合成网格:0耐久的蜂王浆
@@ -19,6 +19,10 @@ sink_2.name=粘土水池
 sink_3.name=砖井
 
 tile.salt.name=盐矿
+
+tile.market.name=集市交易方块
+
+tile.oven.name=烤炉
 
 tile.berrygarden.name=浆果果园
 tile.desertgarden.name=沙漠果园
@@ -145,6 +149,7 @@ tile.pamscallionCrop.name=青葱
 tile.pamartichokeCrop.name=朝鲜蓟
 tile.pambrusselsproutCrop.name=芽甘蓝
 tile.pamcabbageCrop.name=卷心菜
+tile.pamspinachCrop.name=菠菜
 tile.pamwhitemushroomCrop.name=白蘑菇
 tile.pambeanCrop.name=大豆
 tile.pamsoybeanCrop.name=黄豆
@@ -178,6 +183,15 @@ tile.pamcandleDeco13.name=棕色蜡烛
 tile.pamcandleDeco14.name=绿色蜡烛
 tile.pamcandleDeco15.name=红色蜡烛
 tile.pamcandleDeco16.name=黑色蜡烛
+
+tile.pamcarrotCake.name=萝卜蛋糕
+tile.pamcheeseCake.name=奶酪蛋糕
+tile.pamcherrycheeseCake.name=樱桃奶酪蛋糕
+tile.pampineappleupsidedownCake.name=菠萝颠倒蛋糕
+tile.pamchocolatesprinkleCake.name=巧克力粉蛋糕
+tile.pamredvelvetCake.name=红丝绒蛋糕
+tile.pamlamingtonCake.name=拉明顿蛋糕
+tile.pampavlovaCake.name=奶油蛋白甜饼
 
 # Items
 item.cottonItem.name=棉花
@@ -336,6 +350,8 @@ item.zucchiniItem.name=西葫芦
 item.zucchiniseedItem.name=西葫芦种子
 item.bambooshootItem.name=竹笋
 item.bambooshootseedItem.name=竹笋种子
+item.spinachItem.name=菠菜
+item.spinachseedItem.name=菠菜种子
         
 item.almondItem.name=扁桃
 item.apricotItem.name=杏子
@@ -889,4 +905,38 @@ item.pavlovaItem.name=奶油水果蛋白饼
 item.gherkinItem.name=腌食用小黄瓜
 item.mcpamItem.name=Minecraft-潘马斯
 
-item.pamscookbookItem.name=潘马斯的食谱
+item.ceasarsaladItem.name=凯撒沙拉
+item.chaoscookieItem.name=混乱曲奇
+item.chocolatebaconItem.name=巧克力培根
+item.lambkebabItem.name=孜然羊肉串
+item.nutellaItem.name=巧克力酱
+item.snickersbarItem.name=士力架巧克力棒
+item.spinachpieItem.name=菠菜派
+item.steamedspinachItem.name=八宝菠菜
+item.vegemiteontoastItem.name=蔬菜酱吐司
+    
+item.anchovyrawItem.name=鳀鱼
+item.bassrawItem.name=鲈鱼
+item.carprawItem.name=鲤鱼
+item.catfishrawItem.name=鲶鱼
+item.charrrawItem.name=嘉鱼
+item.clamrawItem.name=蛤
+item.crabrawItem.name=螃蟹
+item.crayfishrawItem.name=小龙虾
+item.eelrawItem.name=鳗鱼
+item.frograwItem.name=青蛙
+item.grouperrawItem.name=石斑鱼
+item.herringrawItem.name=青鱼
+item.jellyfishrawItem.name=水母
+item.mudfishrawItem.name=泥鱼
+item.octopusrawItem.name=章鱼
+item.perchrawItem.name=河鲈鱼
+item.scalloprawItem.name=扇贝
+item.shrimprawItem.name=对虾
+item.snailrawItem.name=蜗牛
+item.snapperrawItem.name=鲷鱼
+item.tilapiarawItem.name=罗非鱼
+item.troutrawItem.name=鲑鱼
+item.tunarawItem.name=金枪鱼
+item.turtlerawItem.name=龟
+item.walleyerawItem.name=白斑鱼

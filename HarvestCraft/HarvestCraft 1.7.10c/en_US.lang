@@ -20,6 +20,10 @@ sink_3.name=Brick Well
 
 tile.salt.name=Salt Ore
 
+tile.market.name=Market
+
+tile.oven.name=Oven
+
 tile.berrygarden.name=Berry Garden
 tile.desertgarden.name=Desert Garden
 tile.gourdgarden.name=Gourd Garden
@@ -145,6 +149,7 @@ tile.pamscallionCrop.name=Scallion Crop
 tile.pamartichokeCrop.name=Artichoke Crop
 tile.pambrusselsproutCrop.name=Brussel Sprout Crop
 tile.pamcabbageCrop.name=Cabbage Crop
+tile.pamspinachCrop.name=Spinach Crop
 tile.pamwhitemushroomCrop.name=White Mushroom Crop
 tile.pambeanCrop.name=Bean Crop
 tile.pamsoybeanCrop.name=Soybean Crop
@@ -178,6 +183,15 @@ tile.pamcandleDeco13.name=Brown Candle
 tile.pamcandleDeco14.name=Green Candle
 tile.pamcandleDeco15.name=Red Candle
 tile.pamcandleDeco16.name=Black Candle
+
+tile.pamcarrotCake.name=Carrot Cake
+tile.pamcheeseCake.name=Cheese Cake
+tile.pamcherrycheeseCake.name=Cherry Cheese Cake
+tile.pampineappleupsidedownCake.name=Pineapple Upside Down Cake
+tile.pamchocolatesprinkleCake.name=Chocolate Sprinkle Cake
+tile.pamredvelvetCake.name=Red Velvet Cake
+tile.pamlamingtonCake.name=Lamington
+tile.pampavlovaCake.name=Pavlova
 
 # Items
 item.cottonItem.name=Cotton
@@ -336,6 +350,8 @@ item.zucchiniItem.name=Zucchini
 item.zucchiniseedItem.name=Zucchini Seed
 item.bambooshootItem.name=Bamboo Shoot
 item.bambooshootseedItem.name=Bamboo Shoot Seed
+item.spinachItem.name=Spinach
+item.spinachseedItem.name=Spinach Seed
         
 item.almondItem.name=Almond
 item.apricotItem.name=Apricot
@@ -889,4 +905,38 @@ item.pavlovaItem.name=Pavlova
 item.gherkinItem.name=Gherkin
 item.mcpamItem.name=McPam
 
-item.pamscookbookItem.name=Pam's Cookbook
+item.ceasarsaladItem.name=Ceasar Salad
+item.chaoscookieItem.name=Chaos Cookie
+item.chocolatebaconItem.name=Chocolate Bacon
+item.lambkebabItem.name=Lamb Kebab
+item.nutellaItem.name=Nutella
+item.snickersbarItem.name=Snickers Bar
+item.spinachpieItem.name=Spinach Pie
+item.steamedspinachItem.name=Steamed Spinach
+item.vegemiteontoastItem.name=Vegemite on Toast
+    
+item.anchovyrawItem.name=Raw Anchovy
+item.bassrawItem.name=Raw Bass
+item.carprawItem.name=Raw Carp
+item.catfishrawItem.name=Raw Catfish
+item.charrrawItem.name=Raw Charr
+item.clamrawItem.name=Raw Clam
+item.crabrawItem.name=Raw Crab
+item.crayfishrawItem.name=Raw Crayfish
+item.eelrawItem.name=Raw Eel
+item.frograwItem.name=Raw Frog
+item.grouperrawItem.name=Raw Grouper
+item.herringrawItem.name=Raw Herring
+item.jellyfishrawItem.name=Raw Jellyfish
+item.mudfishrawItem.name=Raw Mudfish
+item.octopusrawItem.name=Raw Octopus
+item.perchrawItem.name=Raw Perch
+item.scalloprawItem.name=Raw Scallop
+item.shrimprawItem.name=Raw Shrimp
+item.snailrawItem.name=Raw Snail
+item.snapperrawItem.name=Raw Snapper
+item.tilapiarawItem.name=Raw Tilapia
+item.troutrawItem.name=Raw Trout
+item.tunarawItem.name=Raw Tuna
+item.turtlerawItem.name=Raw Turtle
+item.walleyerawItem.name=Raw Walleye
