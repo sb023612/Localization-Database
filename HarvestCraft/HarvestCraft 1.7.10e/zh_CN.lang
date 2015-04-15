@@ -19,6 +19,7 @@ sink_2.name=粘土水池
 sink_3.name=砖井
 
 tile.salt.name=盐矿
+tile.pamcompressedsaltBlock.name=压缩盐块
 
 tile.market.name=集市交易方块
 
@@ -193,6 +194,7 @@ tile.pamredvelvetCake.name=红丝绒蛋糕
 tile.pamlamingtonCake.name=拉明顿蛋糕
 tile.pampavlovaCake.name=奶油蛋白甜饼
 tile.pamholidayCake.name=假日蛋糕
+tile.pampumpkincheeseCake.name=南瓜奶酪蛋糕
 
 # Items
 item.cottonItem.name=棉花
@@ -969,3 +971,7 @@ item.pepperoniItem.name=意大利辣香肠
 item.pickledonionsItem.name=腌洋葱
 item.porksausageItem.name=猪肉香肠
 item.raspberrytrifleItem.name=树莓乳脂松糕
+item.pumpkincheesecakeItem.name=南瓜奶酪蛋糕
+item.pumpkinmuffinItem.name=南瓜松饼
+item.suaderoItem.name=墨西哥牛肉玉米薄饼
+item.randomtacoItem.name=墨西哥玉米卷饼
