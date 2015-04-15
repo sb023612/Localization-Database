@@ -19,6 +19,7 @@ sink_2.name=Clay Jug
 sink_3.name=Brick Well
 
 tile.salt.name=Salt Ore
+tile.pamcompressedsaltBlock.name=Compressed Salt Block
 
 tile.market.name=Market
 
@@ -193,6 +194,7 @@ tile.pamredvelvetCake.name=Red Velvet Cake
 tile.pamlamingtonCake.name=Lamington
 tile.pampavlovaCake.name=Pavlova
 tile.pamholidayCake.name=Holiday Cake
+tile.pampumpkincheeseCake.name=Pumpkin Cheese Cake
 
 # Items
 item.cottonItem.name=Cotton
@@ -969,3 +971,7 @@ item.pepperoniItem.name=Pepperoni
 item.pickledonionsItem.name=Pickled Onions
 item.porksausageItem.name=Pork Sausage
 item.raspberrytrifleItem.name=Raspberry Trifle
+item.pumpkincheesecakeItem.name=Pumpkin Cheesecake
+item.pumpkinmuffinItem.name=Pumpkin Muffin
+item.suaderoItem.name=Suadero
+item.randomtacoItem.name=Random Taco
