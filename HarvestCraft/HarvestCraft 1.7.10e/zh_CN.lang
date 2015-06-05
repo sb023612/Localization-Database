@@ -25,6 +25,12 @@ tile.market.name=集市交易方块
 
 tile.oven.name=烤炉
 
+tile.churn.name=搅拌机
+tile.quern.name=石磨
+tile.fishtrap.name=渔栅
+tile.animaltrap.name=陷阱
+tile.dehydrator.name=脱水机
+
 tile.berrygarden.name=浆果果园
 tile.desertgarden.name=沙漠果园
 tile.gourdgarden.name=葫芦果园
@@ -218,6 +224,11 @@ item.honeyItem.name=蜂蜜
 item.beeswaxItem.name=蜂蜡
 item.royaljellyItem.name=蜂王浆
 item.grubItem.name=蜜蜂幼虫
+
+item.grainbaitItem.name=谷物诱饵
+item.veggiebaitItem.name=植物诱饵
+item.fruitbaitItem.name=水果诱饵
+item.fishtrapbaitItem.name=鱼饵
 
 item.potItem.name=罐
 item.skilletItem.name=平底锅
@@ -972,6 +983,30 @@ item.pickledonionsItem.name=腌洋葱
 item.porksausageItem.name=猪肉香肠
 item.raspberrytrifleItem.name=树莓乳脂松糕
 item.pumpkincheesecakeItem.name=南瓜奶酪蛋糕
-item.pumpkinmuffinItem.name=南瓜松饼
-item.suaderoItem.name=墨西哥牛肉玉米薄饼
-item.randomtacoItem.name=墨西哥玉米卷饼
+item.pumpkinmuffinItem.name=南瓜松糕
+item.suaderoItem.name=墨西哥牛排
+item.randomtacoItem.name=墨西哥混搭玉米卷
+
+item.turkeyrawItem.name=生火鸡腿
+item.turkeycookedItem.name=熟火鸡腿
+item.rabbitrawItem.name=生兔肉
+item.rabbitcookedItem.name=熟兔肉
+item.venisonrawItem.name=生鹿肉
+item.venisoncookedItem.name=熟鹿肉
+
+item.strawberrymilkshakeItem.name=草莓奶昔
+item.chocolatemilkshakeItem.name=巧克力奶昔
+item.bananamilkshakeItem.name=香蕉奶昔
+item.cornflakesItem.name=脆玉米片
+item.coleslawburgerItem.name=卷心菜沙拉汉堡
+item.roastchickenItem.name=烤鸡
+item.roastpotatoesItem.name=烤土豆
+item.sundayroastItem.name=周末烧烤
+item.bbqpulledporkItem.name=手撕猪肉汉堡
+item.lambwithmintsauceItem.name=薄荷酱羔羊肉
+item.steakandchipsItem.name=牛排薯条
+
+item.cherryicecreamItem.name=樱桃冰淇淋
+item.pistachioicecreamItem.name=开心果冰淇淋
+item.neapolitanicecreamItem.name=千层冰淇淋
+item.spumoniicecreamItem.name=意式冰淇淋
